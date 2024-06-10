@@ -1,0 +1,8 @@
+[package]
+name = "swayworkspacers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+swayipc = "3.0"
+serde_json = "1.0"
